@@ -1,0 +1,6 @@
+{
+  "name": "Renomeador Inteligente de PDF",
+  "description": "Renomeador automático de PDFs em massa usando IA para extração de dados como número de reserva, nota fiscal, hóspede e datas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
